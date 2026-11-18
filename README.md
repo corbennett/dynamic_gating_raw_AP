@@ -49,6 +49,10 @@ The formula follows [`npc_ephys.get_adjusted_timestamps`](https://github.com/All
 
 Sample counts come from binary length divided by `2 * n_channels`, with channel counts and gains read from `structure.oebin`. Up to 16 evenly spaced acquisition-counter samples, including both endpoints, are checked when `sample_numbers.npy` exists. This is explicitly a **sparse check**, not proof of continuity at every sample. An absolute acquisition-counter origin is recorded as provenance and is not added to the file-relative clock formula.
 
+## Channel map
+
+All recordings use Neuropixels 1.0 probes (bank 0, 384 channels). [`channel_maps/neuropixels_1.0.csv`](channel_maps/neuropixels_1.0.csv) gives each channel's site position in micrometers. `channel` is the column index within each interleaved row of `continuous.dat`. `x_um` is the horizontal position, and `y_um` is the distance from the tip, increasing toward the shank base. The positions match `probe_horizontal_position` / `probe_vertical_position` in the NWB electrode table, which are identical for all six probes in a session. They also match the standard Kilosort `neuropixPhase3B1` map. Channel 191 is the internal reference site and is marked `connected=false` by convention (Kilosort, Allen `ecephys_spike_sorting`), even though the NWB lists it as `valid_data`. Exclude it from spike sorting.
+
 ## Waveform validation
 
 Select the largest-amplitude eligible unit on each probe. Prefer the NWB's boolean `default_qc` column. When it is absent, `--legacy-qc` enables the user-approved fallback: `quality == "good"`, `amplitude_cutoff <= 0.1`, `presence_ratio >= 0.95`, and `isi_violations <= 0.5`. Every result records which rule was used.
