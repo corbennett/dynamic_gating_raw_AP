@@ -1,0 +1,2344 @@
+{
+  "1189820015": {
+    "probeA": {
+      "start_time": 2.0537703356481103,
+      "sample_rate": 30000.128339845713,
+      "n_samples": 186178092,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 2.041434337965306,
+      "sample_rate": 29999.951381232677,
+      "n_samples": 186177360,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 2.053750865741243,
+      "sample_rate": 30000.223424519812,
+      "n_samples": 186178692,
+      "validation_status": "no_qc_unit"
+    }
+  },
+  "1189336645": {
+    "probeA": {
+      "start_time": 2.9866019930418304,
+      "sample_rate": 30000.128641395477,
+      "n_samples": 194120124,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 2.9802826618344938,
+      "sample_rate": 29999.951576171286,
+      "n_samples": 194119524,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 2.980003616564666,
+      "sample_rate": 30000.22193214796,
+      "n_samples": 194121156,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 4.699897467446625,
+      "sample_rate": 30000.11116887996,
+      "n_samples": 194119272,
+      "validation_status": "no_qc_unit"
+    },
+    "probeE": {
+      "start_time": 4.679902070303108,
+      "sample_rate": 30000.07559983052,
+      "n_samples": 194118948,
+      "validation_status": "no_qc_unit"
+    },
+    "probeF": {
+      "start_time": 4.725588273354489,
+      "sample_rate": 30000.125053289612,
+      "n_samples": 194119296,
+      "validation_status": "passed"
+    }
+  },
+  "1190094328": {
+    "probeA": {
+      "start_time": 2.9474847647866333,
+      "sample_rate": 30000.122908492278,
+      "n_samples": 186330792,
+      "validation_status": "no_qc_unit"
+    },
+    "probeB": {
+      "start_time": 2.949333751102202,
+      "sample_rate": 29999.94602671701,
+      "n_samples": 186330384,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 2.947014504887587,
+      "sample_rate": 30000.215406301362,
+      "n_samples": 186331884,
+      "validation_status": "passed"
+    }
+  },
+  "1190290940": {
+    "probeA": {
+      "start_time": 2.940286843829277,
+      "sample_rate": 30000.13235990184,
+      "n_samples": 149222976,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 2.940395700291802,
+      "sample_rate": 29999.954647896146,
+      "n_samples": 149222100,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 2.94064089776775,
+      "sample_rate": 30000.226394940288,
+      "n_samples": 149223852,
+      "validation_status": "no_qc_unit"
+    },
+    "probeD": {
+      "start_time": 2.9897913723045235,
+      "sample_rate": 30000.114893350426,
+      "n_samples": 149104360,
+      "validation_status": "no_qc_unit"
+    },
+    "probeF": {
+      "start_time": 2.9883819778929137,
+      "sample_rate": 30000.12951650975,
+      "n_samples": 149104600,
+      "validation_status": "passed"
+    }
+  },
+  "1187668018": {
+    "probeA": {
+      "start_time": 2.9632807121711267,
+      "sample_rate": 30000.119206617303,
+      "n_samples": 196058856,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 2.965688265320658,
+      "sample_rate": 29999.94136239628,
+      "n_samples": 196057668,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 2.948398857214535,
+      "sample_rate": 30000.210678188847,
+      "n_samples": 196060020,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 4.7505724243939795,
+      "sample_rate": 30000.101592159273,
+      "n_samples": 196059228,
+      "validation_status": "review_required"
+    },
+    "probeE": {
+      "start_time": 4.738570079190104,
+      "sample_rate": 30000.066363243208,
+      "n_samples": 196058952,
+      "validation_status": "review_required"
+    },
+    "probeF": {
+      "start_time": 4.743435157071659,
+      "sample_rate": 30000.11657989988,
+      "n_samples": 196059516,
+      "validation_status": "review_required"
+    }
+  },
+  "1187475832": {
+    "probeA": {
+      "start_time": 18.309990826467867,
+      "sample_rate": 30000.120808826934,
+      "n_samples": 183517740,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 18.309869729448863,
+      "sample_rate": 29999.942452272295,
+      "n_samples": 183517080,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 18.311827121635645,
+      "sample_rate": 30000.215038055903,
+      "n_samples": 183518652,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 20.041355573236324,
+      "sample_rate": 30000.1045795397,
+      "n_samples": 183517428,
+      "validation_status": "review_required"
+    },
+    "probeE": {
+      "start_time": 19.992695372964597,
+      "sample_rate": 30000.069968100594,
+      "n_samples": 183517464,
+      "validation_status": "review_required"
+    },
+    "probeF": {
+      "start_time": 20.068215348893908,
+      "sample_rate": 30000.119815197104,
+      "n_samples": 183517320,
+      "validation_status": "review_required"
+    }
+  },
+  "1188138256": {
+    "probeA": {
+      "start_time": 2.952217723907914,
+      "sample_rate": 30000.12393480334,
+      "n_samples": 188360100,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 2.9603438088492666,
+      "sample_rate": 29999.946242435573,
+      "n_samples": 188358732,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 2.946992022378808,
+      "sample_rate": 30000.21535158206,
+      "n_samples": 188360772,
+      "validation_status": "review_required"
+    },
+    "probeE": {
+      "start_time": 4.808332078685638,
+      "sample_rate": 30000.071237609285,
+      "n_samples": 188359548,
+      "validation_status": "review_required"
+    },
+    "probeF": {
+      "start_time": 4.832406154839738,
+      "sample_rate": 30000.121364208502,
+      "n_samples": 188359740,
+      "validation_status": "review_required"
+    }
+  },
+  "1187940755": {
+    "probeB": {
+      "start_time": 2.2568743877034834,
+      "sample_rate": 29999.939703543714,
+      "n_samples": 191313240,
+      "validation_status": "review_required"
+    },
+    "probeC": {
+      "start_time": 2.2672550646104668,
+      "sample_rate": 30000.207863682732,
+      "n_samples": 191314776,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 4.2673598921959695,
+      "sample_rate": 30000.09847840761,
+      "n_samples": 191343000,
+      "validation_status": "review_required"
+    },
+    "probeE": {
+      "start_time": 4.241214119430353,
+      "sample_rate": 30000.064602215312,
+      "n_samples": 191342268,
+      "validation_status": "review_required"
+    },
+    "probeF": {
+      "start_time": 4.28018040245113,
+      "sample_rate": 30000.113675204157,
+      "n_samples": 191343444,
+      "validation_status": "review_required"
+    }
+  },
+  "1191375883": {
+    "probeA": {
+      "start_time": 2.9296741659775307,
+      "sample_rate": 30000.128279657896,
+      "n_samples": 186294900,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 2.930571157616818,
+      "sample_rate": 29999.951722709397,
+      "n_samples": 186293664,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 2.9303829426195946,
+      "sample_rate": 30000.222886919826,
+      "n_samples": 186295428,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 2.982355496524825,
+      "sample_rate": 30000.11221427379,
+      "n_samples": 186293604,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 2.9826137635677057,
+      "sample_rate": 30000.07586431381,
+      "n_samples": 186293100,
+      "validation_status": "review_required"
+    },
+    "probeF": {
+      "start_time": 2.9826713311171815,
+      "sample_rate": 30000.1260077854,
+      "n_samples": 186293496,
+      "validation_status": "passed"
+    }
+  },
+  "1190892228": {
+    "probeA": {
+      "start_time": 2.960310962925334,
+      "sample_rate": 30000.1274117627,
+      "n_samples": 187213920,
+      "validation_status": "review_required"
+    },
+    "probeB": {
+      "start_time": 2.9616064105756053,
+      "sample_rate": 29999.95012356672,
+      "n_samples": 187212792,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 2.961871894822977,
+      "sample_rate": 30000.22251444707,
+      "n_samples": 187214520,
+      "validation_status": "no_qc_unit"
+    },
+    "probeD": {
+      "start_time": 3.000956462595788,
+      "sample_rate": 30000.111749690743,
+      "n_samples": 187212420,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.002474643587952,
+      "sample_rate": 30000.075581607045,
+      "n_samples": 187212096,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.006075271135522,
+      "sample_rate": 30000.12579711611,
+      "n_samples": 187212240,
+      "validation_status": "passed"
+    }
+  },
+  "1191131853": {
+    "probeA": {
+      "start_time": 2.941446977727253,
+      "sample_rate": 30000.126233119398,
+      "n_samples": 187635816,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 2.9397325705805883,
+      "sample_rate": 29999.94910631973,
+      "n_samples": 187635096,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 2.9532952410448488,
+      "sample_rate": 30000.21972119324,
+      "n_samples": 187635960,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 4.729346895510531,
+      "sample_rate": 30000.109279323624,
+      "n_samples": 187634832,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 4.698992472475872,
+      "sample_rate": 30000.07359562013,
+      "n_samples": 187633872,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 4.7565358899678145,
+      "sample_rate": 30000.123972613303,
+      "n_samples": 187634148,
+      "validation_status": "passed"
+    }
+  },
+  "1191631184": {
+    "probeA": {
+      "start_time": 2.9569029154490423,
+      "sample_rate": 30000.124844822745,
+      "n_samples": 187700784,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 2.9533311115017753,
+      "sample_rate": 29999.94868638817,
+      "n_samples": 187699764,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 2.9588653953804993,
+      "sample_rate": 30000.218656051424,
+      "n_samples": 187701312,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 2.9899070431620487,
+      "sample_rate": 30000.108052451345,
+      "n_samples": 187699620,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 2.9934441466132427,
+      "sample_rate": 30000.071722801684,
+      "n_samples": 187699308,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 2.9877658199958645,
+      "sample_rate": 30000.122745776323,
+      "n_samples": 187699740,
+      "validation_status": "passed"
+    }
+  },
+  "1197514969": {
+    "probeA": {
+      "start_time": 2.9659658219493323,
+      "sample_rate": 30000.10543887976,
+      "n_samples": 189972456,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 2.967506279035412,
+      "sample_rate": 29999.929813467483,
+      "n_samples": 189971400,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 2.974129816164222,
+      "sample_rate": 30000.193887909852,
+      "n_samples": 189972792,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.0001703754232736,
+      "sample_rate": 30000.086030999057,
+      "n_samples": 189971256,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.014591207200951,
+      "sample_rate": 30000.05501020613,
+      "n_samples": 189970692,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.0143994547357167,
+      "sample_rate": 30000.105757041743,
+      "n_samples": 189970896,
+      "validation_status": "passed"
+    }
+  },
+  "1197725774": {
+    "probeA": {
+      "start_time": 2.959995578934638,
+      "sample_rate": 30000.10381203078,
+      "n_samples": 186074628,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 2.95614968250041,
+      "sample_rate": 29999.928970715784,
+      "n_samples": 186073572,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 2.9560855057728403,
+      "sample_rate": 30000.191395786514,
+      "n_samples": 186075180,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 2.9930587504145905,
+      "sample_rate": 30000.083261652333,
+      "n_samples": 186072972,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 2.9913039737107567,
+      "sample_rate": 30000.052599182916,
+      "n_samples": 186073248,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 2.9890943126278984,
+      "sample_rate": 30000.103159637812,
+      "n_samples": 186073716,
+      "validation_status": "passed"
+    }
+  },
+  "1198130743": {
+    "probeA": {
+      "start_time": 2.947751791426839,
+      "sample_rate": 30000.098455055508,
+      "n_samples": 186728352,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 2.9461050866925547,
+      "sample_rate": 29999.923030768383,
+      "n_samples": 186727728,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 2.945975723264816,
+      "sample_rate": 30000.186572898165,
+      "n_samples": 186729000,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.007589091617106,
+      "sample_rate": 30000.07768326203,
+      "n_samples": 186726900,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.0039791312204542,
+      "sample_rate": 30000.046850131082,
+      "n_samples": 186726816,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.0075168946034836,
+      "sample_rate": 30000.097481377685,
+      "n_samples": 186726552,
+      "validation_status": "passed"
+    }
+  },
+  "1197967151": {
+    "probeA": {
+      "start_time": 2.9593137121584974,
+      "sample_rate": 30000.098583945415,
+      "n_samples": 187934412,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 2.9476226539639825,
+      "sample_rate": 29999.922655946346,
+      "n_samples": 187933356,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 2.947873957052032,
+      "sample_rate": 30000.184700299294,
+      "n_samples": 187935060,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 2.999855852317552,
+      "sample_rate": 30000.076090867908,
+      "n_samples": 187932744,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 2.9989574757887922,
+      "sample_rate": 30000.046849867147,
+      "n_samples": 187932816,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 2.99684430835363,
+      "sample_rate": 30000.096173972826,
+      "n_samples": 187933188,
+      "validation_status": "passed"
+    }
+  },
+  "1194850630": {
+    "probeA": {
+      "start_time": 2.9399340367108238,
+      "sample_rate": 30000.10167714914,
+      "n_samples": 191520456,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 2.939751902658557,
+      "sample_rate": 29999.92738703361,
+      "n_samples": 191519232,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 2.941427816052382,
+      "sample_rate": 30000.19032607257,
+      "n_samples": 191521044,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.003131095387751,
+      "sample_rate": 30000.081731141363,
+      "n_samples": 191518440,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 2.991508926816117,
+      "sample_rate": 30000.051020621468,
+      "n_samples": 191518176,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.005533242016476,
+      "sample_rate": 30000.101360545843,
+      "n_samples": 191518140,
+      "validation_status": "passed"
+    }
+  },
+  "1194411467": {
+    "probeA": {
+      "start_time": 2.9629107265252586,
+      "sample_rate": 30000.1203637347,
+      "n_samples": 189672372,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 2.9646215482976146,
+      "sample_rate": 29999.944030623567,
+      "n_samples": 189671184,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 2.96286147874698,
+      "sample_rate": 30000.212287160717,
+      "n_samples": 189672996,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 2.994246874286077,
+      "sample_rate": 30000.101819182666,
+      "n_samples": 189671520,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 2.999023602705826,
+      "sample_rate": 30000.067287947848,
+      "n_samples": 189670944,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 2.9984725347355408,
+      "sample_rate": 30000.117486131796,
+      "n_samples": 189671328,
+      "validation_status": "passed"
+    }
+  },
+  "1195036753": {
+    "probeA": {
+      "start_time": 2.9499202553206416,
+      "sample_rate": 30000.10187873706,
+      "n_samples": 187135692,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 2.9477814865555843,
+      "sample_rate": 29999.926617449986,
+      "n_samples": 187134072,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 2.9414934549055403,
+      "sample_rate": 30000.191456728233,
+      "n_samples": 187136136,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 2.9802168055597065,
+      "sample_rate": 30000.08289209763,
+      "n_samples": 187134336,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 2.9779566162947546,
+      "sample_rate": 30000.051734535482,
+      "n_samples": 187134516,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 2.9785544319586634,
+      "sample_rate": 30000.10236557397,
+      "n_samples": 187134492,
+      "validation_status": "passed"
+    }
+  },
+  "1198796984": {
+    "probeA": {
+      "start_time": 2.976558389384209,
+      "sample_rate": 30000.105620548828,
+      "n_samples": 188559324,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 2.9779346687451707,
+      "sample_rate": 29999.930657394478,
+      "n_samples": 188558220,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.022298424894622,
+      "sample_rate": 30000.084894885913,
+      "n_samples": 188557908,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.012325917387791,
+      "sample_rate": 30000.054208051683,
+      "n_samples": 188558016,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.0078564317450187,
+      "sample_rate": 30000.10417457235,
+      "n_samples": 188558460,
+      "validation_status": "passed"
+    }
+  },
+  "1199249150": {
+    "probeA": {
+      "start_time": 2.9575149844377755,
+      "sample_rate": 30000.102479109213,
+      "n_samples": 185987304,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 2.9555637526333953,
+      "sample_rate": 29999.927867040304,
+      "n_samples": 185986284,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 2.958106574832815,
+      "sample_rate": 30000.189136028166,
+      "n_samples": 185987772,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.0083927194727984,
+      "sample_rate": 30000.081545134406,
+      "n_samples": 185986104,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.008327876367943,
+      "sample_rate": 30000.05168582151,
+      "n_samples": 185985432,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.0005473143149253,
+      "sample_rate": 30000.101667714833,
+      "n_samples": 185985972,
+      "validation_status": "passed"
+    }
+  },
+  "1199448636": {
+    "probeA": {
+      "start_time": 2.9650917836665798,
+      "sample_rate": 30000.107197894242,
+      "n_samples": 187426356,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 2.9567556191310587,
+      "sample_rate": 29999.93184480922,
+      "n_samples": 187425216,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 2.9543132731683457,
+      "sample_rate": 30000.1968120399,
+      "n_samples": 187427340,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 2.991325471001147,
+      "sample_rate": 30000.08814479661,
+      "n_samples": 187425156,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.002272220022377,
+      "sample_rate": 30000.057304613143,
+      "n_samples": 187424520,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.001091655029569,
+      "sample_rate": 30000.107197894242,
+      "n_samples": 187424988,
+      "validation_status": "passed"
+    }
+  },
+  "1198995158": {
+    "probeA": {
+      "start_time": 2.953365242843134,
+      "sample_rate": 30000.102015536024,
+      "n_samples": 188023560,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 2.951079632267806,
+      "sample_rate": 29999.925692387344,
+      "n_samples": 188022468,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 2.953306214871411,
+      "sample_rate": 30000.18904683378,
+      "n_samples": 188024280,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 2.990963428683024,
+      "sample_rate": 30000.080378812654,
+      "n_samples": 188022468,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.0013804233786345,
+      "sample_rate": 30000.049699876527,
+      "n_samples": 188021844,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.005528074458269,
+      "sample_rate": 30000.099754982843,
+      "n_samples": 188022084,
+      "validation_status": "passed"
+    }
+  },
+  "1208053773": {
+    "probeD": {
+      "start_time": 3.5553472586116683,
+      "sample_rate": 30000.078699673166,
+      "n_samples": 188065284,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.557263008374825,
+      "sample_rate": 30000.047213345166,
+      "n_samples": 188065092,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.5566772804387483,
+      "sample_rate": 30000.097268533267,
+      "n_samples": 188065596,
+      "validation_status": "passed"
+    }
+  },
+  "1208664393": {
+    "probeA": {
+      "start_time": 3.5114208402453997,
+      "sample_rate": 30000.104923410072,
+      "n_samples": 196575840,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.521339848051639,
+      "sample_rate": 29999.928538899818,
+      "n_samples": 196574232,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.509258278405646,
+      "sample_rate": 30000.190578311744,
+      "n_samples": 196576380,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.561659711362225,
+      "sample_rate": 30000.082164118423,
+      "n_samples": 196574352,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.5621568394408314,
+      "sample_rate": 30000.052330992894,
+      "n_samples": 196573764,
+      "validation_status": "no_qc_unit"
+    },
+    "probeF": {
+      "start_time": 3.560082857631947,
+      "sample_rate": 30000.101232714132,
+      "n_samples": 196574268,
+      "validation_status": "review_required"
+    }
+  },
+  "1209073822": {
+    "probeA": {
+      "start_time": 3.516550365386763,
+      "sample_rate": 30000.10234373417,
+      "n_samples": 188710932,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.5174465502848022,
+      "sample_rate": 29999.927218663142,
+      "n_samples": 188709876,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.5138476512291916,
+      "sample_rate": 30000.187496291644,
+      "n_samples": 188711604,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.5436079171227703,
+      "sample_rate": 30000.080332601392,
+      "n_samples": 188710068,
+      "validation_status": "no_qc_unit"
+    }
+  },
+  "1200659846": {
+    "probeE": {
+      "start_time": 3.001406027043867,
+      "sample_rate": 30000.05192672857,
+      "n_samples": 188486364,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 2.9999242186238497,
+      "sample_rate": 30000.10269667359,
+      "n_samples": 188486700,
+      "validation_status": "passed"
+    },
+    "probeA": {
+      "start_time": 2.9646259718020502,
+      "sample_rate": 30000.104303317417,
+      "n_samples": 188487804,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 2.9648140604333335,
+      "sample_rate": 29999.928536482465,
+      "n_samples": 188486688,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 2.962716089502276,
+      "sample_rate": 30000.19299005681,
+      "n_samples": 188488380,
+      "validation_status": "no_qc_unit"
+    },
+    "probeD": {
+      "start_time": 2.9993714844270123,
+      "sample_rate": 30000.08357761202,
+      "n_samples": 188486592,
+      "validation_status": "passed"
+    }
+  },
+  "1200260055": {
+    "probeA": {
+      "start_time": 2.9520285182259585,
+      "sample_rate": 30000.10836048832,
+      "n_samples": 187626060,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 2.9598403233571773,
+      "sample_rate": 29999.93284588423,
+      "n_samples": 187625124,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 2.9547274873883893,
+      "sample_rate": 30000.198781995496,
+      "n_samples": 187626636,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 2.990425944839174,
+      "sample_rate": 30000.0888229841,
+      "n_samples": 187624836,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 2.9897025236876544,
+      "sample_rate": 30000.057821324495,
+      "n_samples": 187624692,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.004294109521787,
+      "sample_rate": 30000.107876087397,
+      "n_samples": 187624476,
+      "validation_status": "passed"
+    }
+  },
+  "1200471383": {
+    "probeA": {
+      "start_time": 2.9592683181006834,
+      "sample_rate": 30000.103035526532,
+      "n_samples": 189390024,
+      "validation_status": "review_required"
+    },
+    "probeB": {
+      "start_time": 2.945382269634976,
+      "sample_rate": 29999.92749943944,
+      "n_samples": 189389184,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 2.94973081503791,
+      "sample_rate": 30000.192721997253,
+      "n_samples": 189390744,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 2.9956074976605294,
+      "sample_rate": 30000.08401112365,
+      "n_samples": 189388536,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 2.9940290997822316,
+      "sample_rate": 30000.05267681302,
+      "n_samples": 189388356,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 2.990101545536753,
+      "sample_rate": 30000.103035526532,
+      "n_samples": 189389088,
+      "validation_status": "passed"
+    }
+  },
+  "1202438738": {
+    "probeA": {
+      "start_time": 1.8853480678092325,
+      "sample_rate": 30000.105686515046,
+      "n_samples": 202653600,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 1.872618251861553,
+      "sample_rate": 29999.92971674816,
+      "n_samples": 202653096,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 1.8860156183555432,
+      "sample_rate": 30000.195091715217,
+      "n_samples": 202654128,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 1.9399081269298506,
+      "sample_rate": 30000.084456517678,
+      "n_samples": 202652172,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 1.935484364495622,
+      "sample_rate": 30000.053957084845,
+      "n_samples": 202651776,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 1.9462125608357752,
+      "sample_rate": 30000.104639965877,
+      "n_samples": 202651764,
+      "validation_status": "passed"
+    }
+  },
+  "1203574877": {
+    "probeA": {
+      "start_time": 3.525166829202931,
+      "sample_rate": 30000.102088565673,
+      "n_samples": 191818776,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.5249871948034865,
+      "sample_rate": 29999.92748213376,
+      "n_samples": 191817564,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.5238072885895377,
+      "sample_rate": 30000.189787535106,
+      "n_samples": 191819148,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.563365581067167,
+      "sample_rate": 30000.08055957679,
+      "n_samples": 191817480,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.563653063035545,
+      "sample_rate": 30000.051907025405,
+      "n_samples": 191817240,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.5696323314090677,
+      "sample_rate": 30000.101455360127,
+      "n_samples": 191817384,
+      "validation_status": "passed"
+    }
+  },
+  "1202644967": {
+    "probeE": {
+      "start_time": 3.552035660511983,
+      "sample_rate": 30000.055268444376,
+      "n_samples": 188479020,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.5564199204521216,
+      "sample_rate": 30000.10571696628,
+      "n_samples": 188479152,
+      "validation_status": "passed"
+    },
+    "probeA": {
+      "start_time": 3.5134219521709014,
+      "sample_rate": 30000.106841614856,
+      "n_samples": 188480376,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.5114297111235047,
+      "sample_rate": 29999.932039093106,
+      "n_samples": 188479512,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.513437154403327,
+      "sample_rate": 30000.195688852476,
+      "n_samples": 188481060,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.557387176598837,
+      "sample_rate": 30000.086115948212,
+      "n_samples": 188479092,
+      "validation_status": "review_required"
+    }
+  },
+  "1204636084": {
+    "probeF": {
+      "start_time": 3.5485975257513545,
+      "sample_rate": 30000.11481870763,
+      "n_samples": 187248060,
+      "validation_status": "passed"
+    },
+    "probeA": {
+      "start_time": 3.5115314256442147,
+      "sample_rate": 30000.11514164029,
+      "n_samples": 187249032,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.5019666131518647,
+      "sample_rate": 29999.93914334003,
+      "n_samples": 187248204,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.5136825976575494,
+      "sample_rate": 30000.20475545373,
+      "n_samples": 187249524,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.5490718542276483,
+      "sample_rate": 30000.09528128164,
+      "n_samples": 187247760,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.5489653042778215,
+      "sample_rate": 30000.0649256115,
+      "n_samples": 187247376,
+      "validation_status": "passed"
+    }
+  },
+  "1210863396": {
+    "probeA": {
+      "start_time": 3.493220726664852,
+      "sample_rate": 30000.10243525083,
+      "n_samples": 187395216,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.491699587239104,
+      "sample_rate": 29999.92869576487,
+      "n_samples": 187394532,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.4917519850517067,
+      "sample_rate": 30000.193018756057,
+      "n_samples": 187396272,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.529800378237873,
+      "sample_rate": 30000.083704971676,
+      "n_samples": 187393980,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.527901984994358,
+      "sample_rate": 30000.05431780955,
+      "n_samples": 187394316,
+      "validation_status": "review_required"
+    },
+    "probeF": {
+      "start_time": 3.5278869262614236,
+      "sample_rate": 30000.102112314984,
+      "n_samples": 187394496,
+      "validation_status": "passed"
+    }
+  },
+  "1210343162": {
+    "probeA": {
+      "start_time": 3.501760149375329,
+      "sample_rate": 30000.10601662799,
+      "n_samples": 186883236,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.496840697756042,
+      "sample_rate": 29999.931729380998,
+      "n_samples": 186881868,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.5048408068033226,
+      "sample_rate": 30000.19656810268,
+      "n_samples": 186883764,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.5544037779813564,
+      "sample_rate": 30000.087841421602,
+      "n_samples": 186881820,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.5466001960205773,
+      "sample_rate": 30000.058468989842,
+      "n_samples": 186881940,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.5485264467074416,
+      "sample_rate": 30000.10585434936,
+      "n_samples": 186882096,
+      "validation_status": "review_required"
+    }
+  },
+  "1210608527": {
+    "probeA": {
+      "start_time": 3.4737382684956977,
+      "sample_rate": 30000.1105402595,
+      "n_samples": 186962832,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.470023106014537,
+      "sample_rate": 29999.935671575542,
+      "n_samples": 186961884,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.477131758651378,
+      "sample_rate": 30000.20047733887,
+      "n_samples": 186963348,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.5036515322626762,
+      "sample_rate": 30000.091325694968,
+      "n_samples": 186961836,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.504987837830651,
+      "sample_rate": 30000.062100180836,
+      "n_samples": 186961896,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.5047041501834286,
+      "sample_rate": 30000.10989439178,
+      "n_samples": 186962148,
+      "validation_status": "review_required"
+    }
+  },
+  "1211232400": {
+    "probeA": {
+      "start_time": 3.294065580593802,
+      "sample_rate": 30000.11154884147,
+      "n_samples": 188719452,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.294830725905335,
+      "sample_rate": 29999.93562203547,
+      "n_samples": 188718492,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.2946859000777664,
+      "sample_rate": 30000.201681205075,
+      "n_samples": 188719884,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.3456072078754886,
+      "sample_rate": 30000.09291184649,
+      "n_samples": 188717748,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.331700514084254,
+      "sample_rate": 30000.062867725286,
+      "n_samples": 188717916,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.3329312456563684,
+      "sample_rate": 30000.110906186466,
+      "n_samples": 188718300,
+      "validation_status": "passed"
+    }
+  },
+  "1214740195": {
+    "probeD": {
+      "start_time": 3.5400688364498407,
+      "sample_rate": 30000.080120595412,
+      "n_samples": 187355388,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.531824532542352,
+      "sample_rate": 30000.05105629236,
+      "n_samples": 187355640,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.531597671068077,
+      "sample_rate": 30000.0990123924,
+      "n_samples": 187355292,
+      "validation_status": "passed"
+    },
+    "probeA": {
+      "start_time": 3.5060009586714926,
+      "sample_rate": 30000.101111480948,
+      "n_samples": 187356456,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.503532629314421,
+      "sample_rate": 29999.925272447483,
+      "n_samples": 187355544,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.5043663694838614,
+      "sample_rate": 30000.187658516705,
+      "n_samples": 187357272,
+      "validation_status": "passed"
+    }
+  },
+  "1214217748": {
+    "probeA": {
+      "start_time": 3.546295431707854,
+      "sample_rate": 30000.099990442905,
+      "n_samples": 202343016,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.5299367957049625,
+      "sample_rate": 29999.925066970725,
+      "n_samples": 202342272,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.545809413386614,
+      "sample_rate": 30000.18849872968,
+      "n_samples": 202343580,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.579736787124716,
+      "sample_rate": 30000.08040499431,
+      "n_samples": 202341768,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.5806006210357566,
+      "sample_rate": 30000.05229763297,
+      "n_samples": 202341732,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.5820945429766695,
+      "sample_rate": 30000.09939241394,
+      "n_samples": 202341996,
+      "validation_status": "passed"
+    }
+  },
+  "1214566710": {
+    "probeA": {
+      "start_time": 3.5104548677422756,
+      "sample_rate": 30000.114842063624,
+      "n_samples": 188694588,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.508283741134534,
+      "sample_rate": 29999.93843385733,
+      "n_samples": 188693316,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.5059785066478426,
+      "sample_rate": 30000.20577744138,
+      "n_samples": 188695116,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.553356452905305,
+      "sample_rate": 30000.096526457506,
+      "n_samples": 188693112,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.5533743583605713,
+      "sample_rate": 30000.068249732274,
+      "n_samples": 188692872,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.553121371078632,
+      "sample_rate": 30000.114842063624,
+      "n_samples": 188693232,
+      "validation_status": "review_required"
+    }
+  },
+  "1226528572": {
+    "probeA": {
+      "start_time": 3.522216025771229,
+      "sample_rate": 30000.108336337027,
+      "n_samples": 187437528,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.5209879197206675,
+      "sample_rate": 29999.929831288,
+      "n_samples": 187436460,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.510520671414966,
+      "sample_rate": 30000.22582511476,
+      "n_samples": 187438560,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.5258785568378457,
+      "sample_rate": 30000.089836722862,
+      "n_samples": 187437300,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.5310801588497185,
+      "sample_rate": 30000.057705814033,
+      "n_samples": 187436904,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.5276071354666954,
+      "sample_rate": 30000.103954849463,
+      "n_samples": 187437312,
+      "validation_status": "passed"
+    }
+  },
+  "1226010097": {
+    "probeC": {
+      "start_time": 3.541440082120509,
+      "sample_rate": 30000.222278642505,
+      "n_samples": 183861912,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.554394892683881,
+      "sample_rate": 30000.0904700931,
+      "n_samples": 183860760,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.5409036827040765,
+      "sample_rate": 30000.059330323293,
+      "n_samples": 183860916,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.54876347873995,
+      "sample_rate": 30000.109417572075,
+      "n_samples": 183861012,
+      "validation_status": "passed"
+    },
+    "probeA": {
+      "start_time": 3.530398411548319,
+      "sample_rate": 30000.110241375503,
+      "n_samples": 183861384,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.5341401977292293,
+      "sample_rate": 29999.935595047544,
+      "n_samples": 183860496,
+      "validation_status": "passed"
+    }
+  },
+  "1226251663": {
+    "probeA": {
+      "start_time": 3.5112972821465576,
+      "sample_rate": 30000.110409358374,
+      "n_samples": 183014004,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.5165551056349287,
+      "sample_rate": 29999.9355296787,
+      "n_samples": 183012768,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.510241897409543,
+      "sample_rate": 30000.223352484834,
+      "n_samples": 183014652,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.513432372250456,
+      "sample_rate": 30000.090371061746,
+      "n_samples": 183013848,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.5122492096416096,
+      "sample_rate": 30000.0587403621,
+      "n_samples": 183013632,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.511128267901938,
+      "sample_rate": 30000.108918906553,
+      "n_samples": 183013860,
+      "validation_status": "passed"
+    }
+  },
+  "1226780656": {
+    "probeA": {
+      "start_time": 3.5439791958935203,
+      "sample_rate": 30000.118331424892,
+      "n_samples": 92642472,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.5406776826889725,
+      "sample_rate": 29999.938412299332,
+      "n_samples": 92642016,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.5446153737205037,
+      "sample_rate": 30000.239925119637,
+      "n_samples": 92643240,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.5490933208875717,
+      "sample_rate": 30000.10119627007,
+      "n_samples": 92521384,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.5489560518735317,
+      "sample_rate": 30000.06791452707,
+      "n_samples": 92521288,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.5480751205792416,
+      "sample_rate": 30000.114706680608,
+      "n_samples": 92521516,
+      "validation_status": "passed"
+    }
+  },
+  "1227622013": {
+    "probeA": {
+      "start_time": 3.583379676719076,
+      "sample_rate": 30000.111436659212,
+      "n_samples": 183480768,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.5694890455128743,
+      "sample_rate": 29999.93291277954,
+      "n_samples": 183480264,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.5711570275364934,
+      "sample_rate": 30000.233323092834,
+      "n_samples": 183481896,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.591977521645724,
+      "sample_rate": 30000.093716756495,
+      "n_samples": 183480516,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.5901112516405362,
+      "sample_rate": 30000.060595443018,
+      "n_samples": 183480252,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.5801350866735575,
+      "sample_rate": 30000.10580603592,
+      "n_samples": 183480888,
+      "validation_status": "passed"
+    }
+  },
+  "1228018071": {
+    "probeA": {
+      "start_time": 3.531554474241048,
+      "sample_rate": 30000.111806206274,
+      "n_samples": 134921292,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.528298765168209,
+      "sample_rate": 29999.93340405932,
+      "n_samples": 134920416,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.5291498660147766,
+      "sample_rate": 30000.232397024593,
+      "n_samples": 134922168,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.534990763260879,
+      "sample_rate": 30000.093062689568,
+      "n_samples": 134921328,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.530471424546242,
+      "sample_rate": 30000.060543817213,
+      "n_samples": 134921232,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.5351478757240997,
+      "sample_rate": 30000.107741347223,
+      "n_samples": 134921364,
+      "validation_status": "passed"
+    }
+  },
+  "1227855488": {
+    "probeA": {
+      "start_time": 3.542675665479429,
+      "sample_rate": 30000.105772558327,
+      "n_samples": 183072900,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.5470849928775223,
+      "sample_rate": 29999.92758049201,
+      "n_samples": 183071640,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.5473275846197225,
+      "sample_rate": 30000.226002521278,
+      "n_samples": 183073308,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.5514758487576614,
+      "sample_rate": 30000.087555897266,
+      "n_samples": 183072492,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.561814409484235,
+      "sample_rate": 30000.053772271316,
+      "n_samples": 183071700,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.5638650552920836,
+      "sample_rate": 30000.09997634799,
+      "n_samples": 183072132,
+      "validation_status": "passed"
+    }
+  },
+  "1230732154": {
+    "probeA": {
+      "start_time": 3.559012213454423,
+      "sample_rate": 30000.11013951431,
+      "n_samples": 185134428,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.5574476454091766,
+      "sample_rate": 29999.93105882912,
+      "n_samples": 185133612,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.553034343687763,
+      "sample_rate": 30000.230505220752,
+      "n_samples": 185135532,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.580520000220936,
+      "sample_rate": 30000.09040475756,
+      "n_samples": 185133816,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.5794116614386056,
+      "sample_rate": 30000.05811151925,
+      "n_samples": 185133660,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.57117167756536,
+      "sample_rate": 30000.10459421076,
+      "n_samples": 185134092,
+      "validation_status": "passed"
+    }
+  },
+  "1230962048": {
+    "probeA": {
+      "start_time": 3.517333872896529,
+      "sample_rate": 30000.109452745106,
+      "n_samples": 184643592,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.5211591364506916,
+      "sample_rate": 29999.929954833035,
+      "n_samples": 184642332,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.5249634064903788,
+      "sample_rate": 30000.23059334513,
+      "n_samples": 184644072,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.527108048773357,
+      "sample_rate": 30000.09027351615,
+      "n_samples": 184643412,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.5328641752832937,
+      "sample_rate": 30000.057652434414,
+      "n_samples": 184642860,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.5355940822747485,
+      "sample_rate": 30000.104698919127,
+      "n_samples": 184643040,
+      "validation_status": "passed"
+    }
+  },
+  "1231219674": {
+    "probeA": {
+      "start_time": 3.5141329744534247,
+      "sample_rate": 30000.114288508317,
+      "n_samples": 184661532,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.5163345909831207,
+      "sample_rate": 29999.934462785965,
+      "n_samples": 184660320,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.5123662444803685,
+      "sample_rate": 30000.23477338154,
+      "n_samples": 184662372,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.518902222788334,
+      "sample_rate": 30000.09576498359,
+      "n_samples": 184661400,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.5245136662648733,
+      "sample_rate": 30000.06248820908,
+      "n_samples": 184660788,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.528458911218621,
+      "sample_rate": 30000.109862533376,
+      "n_samples": 184660956,
+      "validation_status": "passed"
+    }
+  },
+  "1231476077": {
+    "probeA": {
+      "start_time": 3.5087207123246245,
+      "sample_rate": 30000.11400292905,
+      "n_samples": 192278532,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.510695245506824,
+      "sample_rate": 29999.934106086468,
+      "n_samples": 192277188,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.5165295578609843,
+      "sample_rate": 30000.235456926977,
+      "n_samples": 192278892,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.5225849242391476,
+      "sample_rate": 30000.062648839135,
+      "n_samples": 192277656,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.520851208418847,
+      "sample_rate": 30000.095887222487,
+      "n_samples": 192277812,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.5195109332005003,
+      "sample_rate": 30000.10911956467,
+      "n_samples": 192277740,
+      "validation_status": "passed"
+    }
+  },
+  "1229429400": {
+    "probeA": {
+      "start_time": 3.5236182248639096,
+      "sample_rate": 30000.106914126685,
+      "n_samples": 183456396,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.513292229881529,
+      "sample_rate": 29999.927652961895,
+      "n_samples": 183455604,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.5252171399805547,
+      "sample_rate": 30000.22999141538,
+      "n_samples": 183457044,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.526301042316213,
+      "sample_rate": 30000.090932202987,
+      "n_samples": 183456108,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.5246305334887396,
+      "sample_rate": 30000.05633216199,
+      "n_samples": 183455724,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.5268141415938175,
+      "sample_rate": 30000.103124598387,
+      "n_samples": 183455868,
+      "validation_status": "passed"
+    }
+  },
+  "1229654875": {
+    "probeA": {
+      "start_time": 3.5018777340089855,
+      "sample_rate": 30000.11155850129,
+      "n_samples": 185712060,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.5148732765848933,
+      "sample_rate": 29999.932967040888,
+      "n_samples": 185710500,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.515185662859743,
+      "sample_rate": 30000.235023099947,
+      "n_samples": 185712468,
+      "validation_status": "no_qc_unit"
+    },
+    "probeD": {
+      "start_time": 3.524824533532531,
+      "sample_rate": 30000.094270195536,
+      "n_samples": 185711220,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.5345860698904588,
+      "sample_rate": 30000.06067216737,
+      "n_samples": 185710836,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.5372399784493354,
+      "sample_rate": 30000.107807265136,
+      "n_samples": 185711052,
+      "validation_status": "passed"
+    }
+  },
+  "1230064747": {
+    "probeA": {
+      "start_time": 3.548570062646519,
+      "sample_rate": 30000.10766643648,
+      "n_samples": 184859244,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.5549184415704502,
+      "sample_rate": 29999.930462694345,
+      "n_samples": 184858104,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.546923364148441,
+      "sample_rate": 30000.230118976135,
+      "n_samples": 184860084,
+      "validation_status": "no_qc_unit"
+    },
+    "probeD": {
+      "start_time": 3.563169196423452,
+      "sample_rate": 30000.088651048787,
+      "n_samples": 184859112,
+      "validation_status": "no_qc_unit"
+    },
+    "probeE": {
+      "start_time": 3.5567100396273403,
+      "sample_rate": 30000.055701971854,
+      "n_samples": 184859100,
+      "validation_status": "no_qc_unit"
+    },
+    "probeF": {
+      "start_time": 3.5592945256933177,
+      "sample_rate": 30000.102748663798,
+      "n_samples": 184859436,
+      "validation_status": "passed"
+    }
+  },
+  "1229887685": {
+    "probeA": {
+      "start_time": 3.5236239091089416,
+      "sample_rate": 30000.10995333638,
+      "n_samples": 194496384,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.5287277558863934,
+      "sample_rate": 29999.932886031056,
+      "n_samples": 194495004,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.5283985060809258,
+      "sample_rate": 30000.2342904662,
+      "n_samples": 194496804,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.544931081628384,
+      "sample_rate": 30000.094352692744,
+      "n_samples": 194495412,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.53730756996476,
+      "sample_rate": 30000.060343289606,
+      "n_samples": 194495316,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.546951940608487,
+      "sample_rate": 30000.10683320766,
+      "n_samples": 194495280,
+      "validation_status": "passed"
+    }
+  },
+  "1234028213": {
+    "probeA": {
+      "start_time": 3.5145461089446925,
+      "sample_rate": 30000.116861803013,
+      "n_samples": 184474044,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.517194081464595,
+      "sample_rate": 29999.937856207715,
+      "n_samples": 184472628,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.511862802562497,
+      "sample_rate": 30000.239641281845,
+      "n_samples": 184474656,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.5236262513214385,
+      "sample_rate": 30000.100633273767,
+      "n_samples": 184473600,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.524084203108444,
+      "sample_rate": 30000.066209120832,
+      "n_samples": 184473072,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.519907748598378,
+      "sample_rate": 30000.112763689565,
+      "n_samples": 184473816,
+      "validation_status": "passed"
+    }
+  },
+  "1234203203": {
+    "probeA": {
+      "start_time": 3.525748694649934,
+      "sample_rate": 30000.113480306823,
+      "n_samples": 186817968,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.53011152023916,
+      "sample_rate": 29999.936436098695,
+      "n_samples": 186816648,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.5233472711167977,
+      "sample_rate": 30000.236810827606,
+      "n_samples": 186818844,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.5445623999551827,
+      "sample_rate": 30000.098875376734,
+      "n_samples": 186817116,
+      "validation_status": "no_qc_unit"
+    },
+    "probeE": {
+      "start_time": 3.543749667760409,
+      "sample_rate": 30000.06447265251,
+      "n_samples": 186816924,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.5446784796126067,
+      "sample_rate": 30000.110883874808,
+      "n_samples": 186817260,
+      "validation_status": "passed"
+    }
+  },
+  "1234410451": {
+    "probeA": {
+      "start_time": 3.5085570193651137,
+      "sample_rate": 30000.121583050135,
+      "n_samples": 185212464,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.5245754330453636,
+      "sample_rate": 29999.944380303485,
+      "n_samples": 185211216,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.516262548923258,
+      "sample_rate": 30000.244526676393,
+      "n_samples": 185213052,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.5320714342817254,
+      "sample_rate": 30000.108141213655,
+      "n_samples": 185211924,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.538120459665123,
+      "sample_rate": 30000.07174990029,
+      "n_samples": 185211168,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.5359507110611403,
+      "sample_rate": 30000.117157079585,
+      "n_samples": 185211756,
+      "validation_status": "passed"
+    }
+  },
+  "1232725697": {
+    "probeA": {
+      "start_time": 3.5348443776027594,
+      "sample_rate": 30000.112321386252,
+      "n_samples": 185498184,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.5447198159539326,
+      "sample_rate": 29999.93315139914,
+      "n_samples": 185496816,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.533384091779041,
+      "sample_rate": 30000.23231446088,
+      "n_samples": 185498964,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.552273986462488,
+      "sample_rate": 30000.093797865167,
+      "n_samples": 185497752,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.560743465638744,
+      "sample_rate": 30000.06183249693,
+      "n_samples": 185497308,
+      "validation_status": "no_qc_unit"
+    },
+    "probeF": {
+      "start_time": 3.5522024677096837,
+      "sample_rate": 30000.10805933716,
+      "n_samples": 185497488,
+      "validation_status": "passed"
+    }
+  },
+  "1232954220": {
+    "probeA": {
+      "start_time": 3.5304150484155556,
+      "sample_rate": 30000.111395115106,
+      "n_samples": 183787836,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.5282911704925937,
+      "sample_rate": 29999.933288149525,
+      "n_samples": 183786996,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.526013165724592,
+      "sample_rate": 30000.232824193397,
+      "n_samples": 183788712,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.533085744218326,
+      "sample_rate": 30000.09343613338,
+      "n_samples": 183787548,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.537433328134604,
+      "sample_rate": 30000.061307679818,
+      "n_samples": 183787332,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.532875255802516,
+      "sample_rate": 30000.1074408439,
+      "n_samples": 183787752,
+      "validation_status": "passed"
+    }
+  },
+  "1232430325": {
+    "probeC": {
+      "start_time": 3.498267505233727,
+      "sample_rate": 30000.2307555089,
+      "n_samples": 183436488,
+      "validation_status": "passed"
+    },
+    "probeA": {
+      "start_time": 3.50013923201778,
+      "sample_rate": 30000.110359890292,
+      "n_samples": 183435564,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.5045998367476443,
+      "sample_rate": 29999.931339720115,
+      "n_samples": 183434280,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.525703988734378,
+      "sample_rate": 30000.091812009567,
+      "n_samples": 183434712,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.5246097740742357,
+      "sample_rate": 30000.059684430464,
+      "n_samples": 183434688,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.5220306774617214,
+      "sample_rate": 30000.105888526195,
+      "n_samples": 183434856,
+      "validation_status": "passed"
+    }
+  },
+  "1233182785": {
+    "probeA": {
+      "start_time": 3.562299942183003,
+      "sample_rate": 30000.109599312098,
+      "n_samples": 183145680,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.5555660761341983,
+      "sample_rate": 29999.931327430422,
+      "n_samples": 183144300,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.5553052832312915,
+      "sample_rate": 30000.232840871704,
+      "n_samples": 183146148,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.5733821167251563,
+      "sample_rate": 30000.093782213535,
+      "n_samples": 183145212,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.568910072874168,
+      "sample_rate": 30000.059347071885,
+      "n_samples": 183144960,
+      "validation_status": "no_qc_unit"
+    },
+    "probeF": {
+      "start_time": 3.570996946038697,
+      "sample_rate": 30000.10696312901,
+      "n_samples": 183145296,
+      "validation_status": "passed"
+    }
+  },
+  "1243523806": {
+    "probeE": {
+      "start_time": 3.5598876758633153,
+      "sample_rate": 30000.068374747643,
+      "n_samples": 184763688,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.5658030857478593,
+      "sample_rate": 30000.11607805995,
+      "n_samples": 184763676,
+      "validation_status": "passed"
+    },
+    "probeA": {
+      "start_time": 3.5360094107285747,
+      "sample_rate": 30000.119684495927,
+      "n_samples": 184764840,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.540271527913127,
+      "sample_rate": 29999.942805203904,
+      "n_samples": 184763400,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.53345050728597,
+      "sample_rate": 30000.240336172425,
+      "n_samples": 184765440,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.566618079955475,
+      "sample_rate": 30000.10542268091,
+      "n_samples": 184763592,
+      "validation_status": "no_qc_unit"
+    }
+  },
+  "1244070169": {
+    "probeA": {
+      "start_time": 3.6683058507067656,
+      "sample_rate": 30000.11920770915,
+      "n_samples": 183545760,
+      "validation_status": "passed"
+    },
+    "probeB": {
+      "start_time": 3.6629814109311027,
+      "sample_rate": 29999.941096398037,
+      "n_samples": 183544812,
+      "validation_status": "passed"
+    },
+    "probeC": {
+      "start_time": 3.664380426270398,
+      "sample_rate": 30000.239815923527,
+      "n_samples": 183546384,
+      "validation_status": "passed"
+    },
+    "probeD": {
+      "start_time": 3.6661832054415555,
+      "sample_rate": 30000.10355500373,
+      "n_samples": 183545532,
+      "validation_status": "passed"
+    },
+    "probeE": {
+      "start_time": 3.6806309502085313,
+      "sample_rate": 30000.067471398623,
+      "n_samples": 183544932,
+      "validation_status": "passed"
+    },
+    "probeF": {
+      "start_time": 3.672098682810365,
+      "sample_rate": 30000.114264749547,
+      "n_samples": 183545400,
+      "validation_status": "passed"
+    }
+  }
+}

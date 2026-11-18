@@ -1,0 +1,15 @@
+{
+  "generated_at": "2026-11-18T00:04:38.635302+00:00",
+  "dandiset": "001051",
+  "version": "0.260922.1827",
+  "assets": 666,
+  "subjects": 27,
+  "rows": 529,
+  "status_counts": {
+    "dat_found": 376,
+    "dat_missing": 6,
+    "multiple_recordings": 2,
+    "no_lims_probes": 13,
+    "npx2_only": 132
+  }
+}

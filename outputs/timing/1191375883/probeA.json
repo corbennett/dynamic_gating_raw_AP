@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "session_id": "1191375883",
+  "probe": "probeA",
+  "nwb_asset_id": "2fb309c7-c0d6-430b-b93d-070ebccbb47d",
+  "clock": "master_sync",
+  "time_unit": "seconds",
+  "start_time": 2.9296741659775307,
+  "sample_rate": 30000.128279657896,
+  "sample_rate_unit": "Hz",
+  "n_samples": 186294900,
+  "timestamp_formula": "start_time + sample_index / sample_rate",
+  "sample_index_origin": 0,
+  "last_sample_time": 6212.73308778406,
+  "stop_time_exclusive": 6212.733121117251,
+  "dat_dtype": "<i2",
+  "n_channels": 384,
+  "dat_layout": "sample_major_interleaved_channels",
+  "dat_size_bytes": 143074483200,
+  "dat_mtime_ns": 1657753167736987300,
+  "alignment_sha256": "2109c25795199320214cdd7ba9f0c385df8995cab7fef62110a301b0f5f8d09e",
+  "source_shift": -2.9296741659775307,
+  "sample_counter_check": {
+    "status": "16_or_fewer_equally_spaced_checkpoints_passed",
+    "checked_samples": 16,
+    "full_continuity_scan": false,
+    "acquisition_counter_origin": 138010152
+  },
+  "waveform_validation": {
+    "status": "passed",
+    "qc_source": "legacy_quality_good_amplitude_cutoff_le_0.1_presence_ratio_ge_0.95_isi_violations_le_0.5",
+    "note": "Sparse waveform validation; full sample-counter continuity was not scanned."
+  }
+}

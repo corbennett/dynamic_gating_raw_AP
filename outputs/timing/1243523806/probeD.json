@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "session_id": "1243523806",
+  "probe": "probeD",
+  "nwb_asset_id": "25f6601d-c409-4ba7-808f-3e8de4eea7f8",
+  "clock": "master_sync",
+  "time_unit": "seconds",
+  "start_time": 3.566618079955475,
+  "sample_rate": 30000.10542268091,
+  "sample_rate_unit": "Hz",
+  "n_samples": 184763592,
+  "timestamp_formula": "start_time + sample_index / sample_rate",
+  "sample_index_origin": 0,
+  "last_sample_time": 6162.331342297011,
+  "stop_time_exclusive": 6162.331375630228,
+  "dat_dtype": "<i2",
+  "n_channels": 384,
+  "dat_layout": "sample_major_interleaved_channels",
+  "dat_size_bytes": 141898438656,
+  "dat_mtime_ns": 1675126589206006100,
+  "alignment_sha256": "0d4055270dc87ca820f26c012174db8b1b377ac238366592a1ebb74a36f33a67",
+  "source_shift": -3.566618079955475,
+  "sample_counter_check": {
+    "status": "16_or_fewer_equally_spaced_checkpoints_passed",
+    "checked_samples": 16,
+    "full_continuity_scan": false,
+    "acquisition_counter_origin": 11160108
+  },
+  "waveform_validation": {
+    "status": "no_qc_unit",
+    "qc_source": "",
+    "note": "Sparse waveform validation; full sample-counter continuity was not scanned."
+  }
+}

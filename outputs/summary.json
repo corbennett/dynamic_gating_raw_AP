@@ -1,0 +1,38 @@
+{
+  "generated_at": "2026-11-18T00:25:13.071028+00:00",
+  "dandiset": "001051",
+  "version": "0.260922.1827",
+  "assets": 666,
+  "sessions": 99,
+  "probe_rows": 529,
+  "discovery": {
+    "npx2_only": 132,
+    "no_lims_probes": 13,
+    "dat_found": 376,
+    "multiple_recordings": 2,
+    "dat_missing": 6
+  },
+  "validation": {
+    "unavailable_npx2_only": 132,
+    "unavailable_no_lims_probes": 13,
+    "passed": 329,
+    "no_qc_unit": 21,
+    "no_nwb_reference": 3,
+    "validation_error": 1,
+    "review_required": 22,
+    "unavailable_multiple_recordings": 2,
+    "unavailable_dat_missing": 6
+  },
+  "timing": {
+    "unavailable_npx2_only": 132,
+    "unavailable_no_lims_probes": 13,
+    "generated": 369,
+    "error": 7,
+    "unavailable_multiple_recordings": 2,
+    "unavailable_dat_missing": 6
+  },
+  "discovered_ap_bytes": 53374324478976,
+  "eligible_probes": 329,
+  "timestamp_arrays_retained": false,
+  "s3_uploads_performed": false
+}
